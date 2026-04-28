@@ -1,5 +1,8 @@
 # learnservers
 
+- node -v v25.9.0
+- npm -v 11.12.1
+
 127.0.0.1 localhost
 192.168.1.*
 193.40.160.10
